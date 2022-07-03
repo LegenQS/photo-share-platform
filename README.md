@@ -1,20 +1,16 @@
 # photo-sharing-platform
 
-after cloning, under file:
-
-photo-sharing-platform
+After cloning, you should firstly go to the frontend path by 
 
 `cd photo-sharing-platform`
 
-run to install modules:
+Then run the following code to install modules
 
 `npm install`
 
-run to start:
+Now you can start the web by running
 
 `npm start`
-
-
 
 ## 1. pages router
 
@@ -43,26 +39,26 @@ run to start:
 
 ### login
 
-![image-20220427181312760](README.assets/image-20220427181312760.png)
+![image-20220427181312760](img/image-20220427181312760.png)
 
 ### signup
 
-![image-20220427181342656](README.assets/image-20220427181342656.png)
+![image-20220427181342656](img/image-20220427181342656.png)
 
 ### main
 
-![image-20220427181408800](README.assets/image-20220427181408800.png)
+![image-20220427181408800](img/image-20220427181408800.png)
 
 ### imgDetail
 
-![image-20220427181433190](README.assets/image-20220427181433190.png)
+![image-20220427181433190](img/image-20220427181433190.png)
 
 ### userInfo
 
-![image-20220427181457091](README.assets/image-20220427181457091.png)
+![image-20220427181457091](img/image-20220427181457091.png)
 
 ### post
 
-![image-20220427181524393](README.assets/image-20220427181524393.png)
+![image-20220427181524393](img/image-20220427181524393.png)
 
-![image-20220427181831774](README.assets/image-20220427181831774.png)
+![image-20220427181831774](img/image-20220427181831774.png)
