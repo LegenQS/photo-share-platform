@@ -62,3 +62,5 @@ Now you can start the web by running
 ![image-20220427181524393](img/image-20220427181524393.png)
 
 ![image-20220427181831774](img/image-20220427181831774.png)
+
+For more details about our project, please refer to [here](https://github.com/LegenQS/photo-share-platform/blob/main/Project%20Report.pdf).
